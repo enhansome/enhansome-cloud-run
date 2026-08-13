@@ -1,0 +1,1370 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Run popular languages and stacks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦 Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T17:10:33Z",
+            "owner": "knative",
+            "repo": "docs",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Scala",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T17:10:33Z",
+            "owner": "knative",
+            "repo": "docs",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Clojure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T17:10:33Z",
+            "owner": "knative",
+            "repo": "docs",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Haskell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T17:10:33Z",
+            "owner": "knative",
+            "repo": "docs",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Pascal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-31T19:43:13Z",
+            "owner": "engelke",
+            "repo": "cloud-run-pascal",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Nim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2019-09-27T19:41:45Z",
+            "owner": "karur4n-sandbox",
+            "repo": "try-cloud-run-with-nim",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Node.js and Cloud SQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-02-03T05:00:27Z",
+                "owner": "jamesward",
+                "repo": "nodebars",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Cloud Run Primer in Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-04-08T14:15:31Z",
+                "owner": "begoon",
+                "repo": "cloudrun-primer",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Ruby sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "✏️ Ruby on Rails Cloud Run workshop/tutorial with CI/CD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2022-02-25T02:35:07Z",
+                "owner": "jgunnink",
+                "repo": "latency-container-workshop",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "📦 PHP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Laravel 6",
+              "description": "📰 Blog post",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2023-02-02T08:22:01Z",
+                "owner": "geshan",
+                "repo": "laravel6-on-google-cloud-run",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Symfony",
+              "description": "📰 Blog post",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2023-01-24T00:43:52Z",
+                "owner": "geshan",
+                "repo": "symfony-demo-google-cloud-run",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Laravel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2019-09-25T06:41:39Z",
+                "owner": "0xkohe",
+                "repo": "LaravelOnCloudRunDevKit",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Kotlin:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Kotlin Knative sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Kotlin with Ktor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2024-03-28T20:59:51Z",
+                "owner": "jamesward",
+                "repo": "hello-kotlin-ktor",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Kotlin Spring Boot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2020-12-15T00:19:34Z",
+                "owner": "jamesward",
+                "repo": "hello-kotlin-springboot",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Spring Boot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Micronaut sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-12T20:45:10Z",
+                "owner": "micronaut-projects",
+                "repo": "micronaut-gcp",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Micronaut with GraalVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-12T20:45:10Z",
+                "owner": "micronaut-projects",
+                "repo": "micronaut-gcp",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Micronaut with GraalVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2022-01-25T20:21:03Z",
+                "owner": "jamesward",
+                "repo": "hello-micronaut",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Launching/installing a Micronaut app with Cloud Shell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2022-01-25T20:21:03Z",
+                "owner": "jamesward",
+                "repo": "hello-micronaut",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Quarkus:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "📦 Quarkus with GraalVM",
+                  "description": "(extracting text from PDF files)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Java",
+                    "last_commit": "2021-06-15T16:00:24Z",
+                    "owner": "gunnarmorling",
+                    "repo": "quarkus-pdf-extract",
+                    "stars": 23
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Shell",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Shell Knative sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 sh server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2020-03-24T10:36:18Z",
+                "owner": "wietsevenema",
+                "repo": "sh-server",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dart",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Dart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dart",
+                "last_commit": "2026-08-01T11:32:25Z",
+                "owner": "dart-lang",
+                "repo": "samples",
+                "stars": 656
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Elixir:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Elixir",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Rust Knative sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 Rust sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2020-09-12T21:48:44Z",
+                "owner": "gsquire",
+                "repo": "rust_bin",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C# and .NET",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 C#",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 helloworld-swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 SwiftCloudRun",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2019-04-23T09:58:00Z",
+                "owner": "alfianlosari",
+                "repo": "SwiftCloudRun",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "R",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 R Knative Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-11T17:10:33Z",
+                "owner": "knative",
+                "repo": "docs",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 R Hello World with Plumber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2019-11-16T23:32:34Z",
+                "owner": "MarkEdmondson1234",
+                "repo": "cloudRunR",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📦 R Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2021-05-21T00:57:33Z",
+                "owner": "Jinksi",
+                "repo": "cloudrun-helloworld-r",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 C++ Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-05-20T02:31:35Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "cpp-samples",
+                "stars": 178
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦 FastAPI, PostgreSQL, Secrets Manager, and Cloud Build",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-07T23:42:50Z",
+            "owner": "anthonycorletti",
+            "repo": "cloudrun-fastapi",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Remix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-03T16:51:26Z",
+            "owner": "puches",
+            "repo": "remix-cloudrun",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Headless Chrome",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Node.js (with puppeteer)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T16:35:02Z",
+                "owner": "as-a-service",
+                "repo": "screenshot",
+                "stars": 104
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Apache Superset",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Popular stacks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦 Vault on Cloud Run",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-28T16:47:21Z",
+            "owner": "kelseyhightower",
+            "repo": "serverless-vault-with-cloud-run",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Vault on Cloud Run (using Terraform)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2021-11-26T09:15:43Z",
+            "owner": "mbrancato",
+            "repo": "terraform-google-vault",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Building containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cloud Run Button",
+          "description": "Add a deploy button to a README to enable two-click deployment of a repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T17:45:38Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "cloud-run-button",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudRunner",
+          "description": "As easy as possible R scripts in the cloud, via Cloud Run, Cloud Build and Cloud Scheduler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-06-19T15:50:06Z",
+            "owner": "MarkEdmondson1234",
+            "repo": "googleCloudRunner",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-run-compose",
+          "description": "Deploy docker-compose configurations to Cloud Run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-07T18:35:14Z",
+            "owner": "remorses",
+            "repo": "cloud-run-compose",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Secrets:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Berglas",
+              "description": "unofficial tool to manage secrets on Google Cloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-25T01:54:15Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "berglas",
+                "stars": 1303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "konfig",
+              "description": "to use Kubernetes configmaps and secrets with Cloud Run",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-02-29T00:44:29Z",
+                "owner": "kelseyhightower",
+                "repo": "konfig",
+                "stars": 116
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Pulumi",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Typescript sample",
+              "description": "example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T21:16:04Z",
+                "owner": "pulumi",
+                "repo": "examples",
+                "stars": 2582
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Using Travis CI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-24T20:10:48Z",
+            "owner": "ahmetb",
+            "repo": "cloud-run-travisci",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Drone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-30T06:45:51Z",
+            "owner": "oliver006",
+            "repo": "drone-cloud-run",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Using Cloud Build:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Cloud Build",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-03-06T20:30:43Z",
+                "owner": "Timtech4u",
+                "repo": "awesome-cloudbuild",
+                "stars": 118
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Using GitHub Actions:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deploy to Cloud Run - Google GitHub Actions",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "Github Action for Google Cloud Run",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Terraform",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloud Run Release Manager",
+              "description": "provides an automated way to gradually roll out new versions of your Cloud Run services. By using metrics, it automatically decides to slowly increase traffic to a new version or roll back to the previous one.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2020-12-11T14:01:18Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "cloud-run-release-manager",
+                "stars": 133
+              }
+            }
+          ]
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Datasette",
+          "description": "Publish your Datasette to Cloud Run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:03:32Z",
+            "owner": "simonw",
+            "repo": "datasette",
+            "stars": 11381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flic buttons",
+          "description": "How to use Flic buttons with Cloud Run and Cloud PubSub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-25T02:28:41Z",
+            "owner": "mchmarny",
+            "repo": "buttons",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Twilio",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📦 Create a TwiML app to trigger a Cloud Run service from SMS message",
+              "description": "Create a TwiML app to trigger a Cloud Run service from SMS message.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-27T13:45:01Z",
+                "owner": "amygdala",
+                "repo": "code-snippets",
+                "stars": 155
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samples and microservices"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦 LogPaste",
+          "description": "A minimalist web service for uploading and sharing log files. (installation instructions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-30T19:50:11Z",
+            "owner": "mtlynch",
+            "repo": "logpaste",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 serverless-registry-proxy",
+          "description": "Generic serverless docker-registry v2 proxy (e.g. GCR.io on custom domains)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-27T12:47:18Z",
+            "owner": "ahmetb",
+            "repo": "serverless-registry-proxy",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 pdf",
+          "description": "Transform Word documents to PDF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-15T10:24:56Z",
+            "owner": "as-a-service",
+            "repo": "pdf",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 screenshot",
+          "description": "Take screenshots of webpages using Chromium via puppeteer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T16:35:02Z",
+            "owner": "as-a-service",
+            "repo": "screenshot",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Badger",
+          "description": "generates build status images based on Cloud Build status info.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-03-03T21:50:25Z",
+            "owner": "kelseyhightower",
+            "repo": "badger",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 django-demo-app-unicodex",
+          "description": "Django in Cloud Run with Cloud SQL and Cloud Storages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-30T23:06:10Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "django-demo-app-unicodex",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 GitHub activity counter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-01-24T23:25:37Z",
+            "owner": "mchmarny",
+            "repo": "github-activity-counter",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 meme",
+          "description": "Generate meme images from a base image and text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-31T08:39:53Z",
+            "owner": "as-a-service",
+            "repo": "meme",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Domain redirector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-27T19:22:30Z",
+            "owner": "ahmetb",
+            "repo": "serverless-url-redirect",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 render",
+          "description": "Render a Blender 3D scene with custom text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-09T07:01:49Z",
+            "owner": "as-a-service",
+            "repo": "blender",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 hasura",
+          "description": "GraphQL server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-07-21T17:22:34Z",
+            "owner": "n3n",
+            "repo": "hasura-cloud-run",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 inkscape",
+          "description": "Transform SVG images to PNG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-15T19:51:24Z",
+            "owner": "as-a-service",
+            "repo": "inkscape",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 buildstatus",
+          "description": "Cloud Build status notifications in Slack using Cloud Run",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-01-24T23:00:07Z",
+            "owner": "mchmarny",
+            "repo": "buildstatus",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 trace",
+          "description": "Transform pixel images to SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-13T20:33:39Z",
+            "owner": "as-a-service",
+            "repo": "trace",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 ytdl",
+          "description": "Serverless video downloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-25T17:00:04Z",
+            "owner": "ahmetb",
+            "repo": "ytdl",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 microurl",
+          "description": "Url shortener and code snippet sharing tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-10-27T04:58:28Z",
+            "owner": "thomasgassmann",
+            "repo": "microurl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 datastore-cleaner",
+          "description": "Automatically clean up old Google Cloud Datastore entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-05T22:21:54Z",
+            "owner": "steren",
+            "repo": "datastore-cleaner",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 odoo",
+          "description": "Open Source ERP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-14T16:28:33Z",
+            "owner": "n3n",
+            "repo": "odoo-starter",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 plantuml-image-converter",
+          "description": "UML diagrams to images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-04-12T04:28:06Z",
+            "owner": "rprakashg",
+            "repo": "plantuml-image-converter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 gcr-cleaner",
+          "description": "Delete untagged image refs in Google Container Registry, as a service",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "📦 tweethingz",
+          "description": "Twitter follower histogramc",
+          "children": []
+        }
+      ],
+      "title": "Useful"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📦 DOOM on Cloud Run",
+          "description": "Play DOOM over HTTP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-07T12:38:47Z",
+            "owner": "matti",
+            "repo": "http-doom",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 ih-aas",
+          "description": "Generate cross-stitch patterns from image uploads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-04T00:50:55Z",
+            "owner": "glasnt",
+            "repo": "ih-aas",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 Fortran 90 on Cloud Run",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2019-04-14T03:22:13Z",
+            "owner": "zachmccormick",
+            "repo": "fortran-cloudrun",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📦 COBOL on Cloud Run",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-04-07T11:45:14Z",
+            "owner": "devries",
+            "repo": "cloud-run-cobol",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Fun"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meetups"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:17.954Z",
+    "original_repository": "steren/awesome-cloud-run",
+    "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
+    "enhanced_repository": "enhansome/enhansome-cloud-run",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cloud Run with stars"
+  }
+}
