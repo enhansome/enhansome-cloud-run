@@ -841,7 +841,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T13:55:13Z",
+                "last_commit": "2026-08-15T10:20:22Z",
                 "owner": "pulumi",
                 "repo": "examples",
                 "stars": 2582
@@ -961,7 +961,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11383
+            "stars": 11385
           }
         },
         {
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:42:13.467Z",
+    "last_updated": "2026-08-15T23:39:25.640Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
     "enhanced_repository": "enhansome/enhansome-cloud-run",
