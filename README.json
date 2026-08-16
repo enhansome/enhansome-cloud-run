@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T17:10:33Z",
+            "last_commit": "2026-08-16T04:41:01Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5079
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T17:10:33Z",
+            "last_commit": "2026-08-16T04:41:01Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5079
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T17:10:33Z",
+            "last_commit": "2026-08-16T04:41:01Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5079
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T17:10:33Z",
+            "last_commit": "2026-08-16T04:41:01Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5079
@@ -105,7 +105,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -161,7 +161,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -196,7 +196,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -259,7 +259,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -308,7 +308,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -406,7 +406,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -441,7 +441,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -476,7 +476,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -497,7 +497,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -532,7 +532,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -553,7 +553,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -588,7 +588,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-11T17:10:33Z",
+                "last_commit": "2026-08-16T04:41:01Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5079
@@ -961,7 +961,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11385
+            "stars": 11384
           }
         },
         {
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:39:25.640Z",
+    "last_updated": "2026-08-16T23:37:49.852Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
     "enhanced_repository": "enhansome/enhansome-cloud-run",
