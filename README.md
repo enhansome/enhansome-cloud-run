@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,823 | 🐛 102 | 📅 2026-08-18 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -72,8 +72,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
   * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,079 | 🐛 40 | 🌐 HTML | 📅 2026-08-17
-  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 49 | 🌐 Java | 📅 2026-08-17
-  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 49 | 🌐 Java | 📅 2026-08-17
+  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 50 | 🌐 Java | 📅 2026-08-19
+  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 50 | 🌐 Java | 📅 2026-08-19
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Deploying a Java 14 based Micronaut application](http://glaforge.appspot.com/article/start-the-fun-with-java-14-and-micronaut-inside-serverless-containers-on-cloud-run)
@@ -263,7 +263,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
-* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,439 | 🐛 252 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
+* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,439 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
 * [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub
 * [Ship your Go applications faster to Cloud Run with ko](https://cloud.google.com/blog/topics/developers-practitioners/ship-your-go-applications-faster-cloud-run-ko)
@@ -285,7 +285,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [konfig](https://github.com/kelseyhightower/konfig) ⭐ 116 | 🐛 2 | 🌐 Go | 📅 2024-02-29 to use Kubernetes configmaps and secrets with Cloud Run
   * 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secrets from Cloud Secret Manager ins Cloud Run services (see 📰 [Cloud Run and Clodu Secret manager tutorial](https://dev.to/googlecloud/serverless-mysteries-with-secret-manager-libraries-on-google-cloud-3a1p))
 * [Pulumi](https://www.pulumi.com/):
-  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,583 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-18: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
+  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,584 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-18: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
   * 📰 [Pulumi](https://www.pulumi.com/blog/google-cloud-run-serverless-containers/): intro to Build, deploy and manage Cloud Run services using your favorite language with Pulumi.
 
 ## CI/CD
@@ -325,7 +325,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Integrations
 
-* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,388 | 🐛 708 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,390 | 🐛 708 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
 * [Flic buttons](https://github.com/mchmarny/buttons) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25: How to use Flic buttons with Cloud Run and Cloud PubSub
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * Twilio
@@ -336,7 +336,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Useful
 
-* 📦 [LogPaste](https://github.com/mtlynch/logpaste) ⭐ 339 | 🐛 6 | 🌐 Go | 📅 2026-03-30 A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md) ⭐ 339 | 🐛 6 | 🌐 Go | 📅 2026-03-30)
+* 📦 [LogPaste](https://github.com/mtlynch/logpaste) ⭐ 340 | 🐛 6 | 🌐 Go | 📅 2026-03-30 A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md) ⭐ 340 | 🐛 6 | 🌐 Go | 📅 2026-03-30)
 * 📦 [serverless-registry-proxy](https://github.com/ahmetb/gcr-custom-domains) ⭐ 265 | 🐛 8 | 🌐 Go | 📅 2023-12-27: Generic serverless docker-registry v2 proxy (e.g. GCR.io on custom domains)
 * 📦 [pdf](https://github.com/as-a-service/pdf) ⭐ 164 | 🐛 21 | 🌐 Python | 📅 2021-07-15: Transform Word documents to PDF.
 * 📦 [screenshot](https://github.com/as-a-service/screenshot) ⭐ 104 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-10: Take screenshots of webpages using Chromium via puppeteer
