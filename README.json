@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 138207223,
                 "language": "HTML",
-                "last_commit": "2026-08-19T23:55:48Z",
+                "last_commit": "2026-08-24T21:46:10Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5081
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 138207223,
                 "language": "HTML",
-                "last_commit": "2026-08-19T23:55:48Z",
+                "last_commit": "2026-08-24T21:46:10Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5081
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 138207223,
                 "language": "HTML",
-                "last_commit": "2026-08-19T23:55:48Z",
+                "last_commit": "2026-08-24T21:46:10Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5081
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 138207223,
                 "language": "HTML",
-                "last_commit": "2026-08-19T23:55:48Z",
+                "last_commit": "2026-08-24T21:46:10Z",
                 "owner": "knative",
                 "repo": "docs",
                 "stars": 5081
@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -168,7 +168,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -205,7 +205,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -272,7 +272,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -324,7 +324,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -428,7 +428,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -465,7 +465,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -502,7 +502,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -524,7 +524,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -561,7 +561,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -583,7 +583,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -620,7 +620,7 @@
                     "archived": false,
                     "id": 138207223,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T23:55:48Z",
+                    "last_commit": "2026-08-24T21:46:10Z",
                     "owner": "knative",
                     "repo": "docs",
                     "stars": 5081
@@ -1054,7 +1054,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11405
+            "stars": 11406
           }
         },
         {
@@ -1291,7 +1291,7 @@
                 "archived": false,
                 "id": 199080582,
                 "language": "Go",
-                "last_commit": "2020-01-24T23:00:07Z",
+                "last_commit": "2026-08-24T21:05:00Z",
                 "owner": "mchmarny",
                 "repo": "buildstatus",
                 "stars": 17
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:51.820Z",
+    "last_updated": "2026-08-24T23:40:43.572Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_id": 172414062,
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
