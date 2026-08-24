@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,302 | 🐛 106 | 📅 2026-08-21 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -87,7 +87,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [sh server](https://github.com/wietsevenema/sh-server/) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2020-03-24
 * Dart
   * 📦 [Dart](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-dart) ⭐ 5,081 | 🐛 41 | 🌐 HTML | 📅 2026-08-19
-  * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server) ⭐ 655 | 🐛 16 | 🌐 Dart | 📅 2026-08-22
+  * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server) ⭐ 655 | 🐛 13 | 🌐 Dart | 📅 2026-08-24
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Elixir:
@@ -187,11 +187,11 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Async and events
 
+* 📰 [Use Cloud Run to pre-process raw events from PubSub and publish them to new topic](https://github.com/mchmarny/preprocessd) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2023-02-25
 * 📙 [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
 * 📰 [Using a Cloud Run service as async worker](https://medium.com/@zdenulo/using-cloud-run-service-as-async-worker-cf5b1b3fd226)
 * 📰 [Cloud Run as an internal async worker](https://medium.com/google-cloud/cloud-run-as-an-internal-async-worker-480a772686e)
 * 📰 [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651?linkId=67861967)
-* 📰 [Use Cloud Run to pre-process raw events from PubSub and publish them to new topic](https://github.com/mchmarny/preprocessd) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2023-02-25
 * 📰 [(hack) Run long background tasks](https://blog.doit-intl.com/hacking-google-cloud-run-to-run-long-background-tasks-6eb410259a81) (not recommended)
 
 ### Custom domain
@@ -240,8 +240,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Networking and load balancing
 
-* 📰 [Serving users from multiple regions with Cloud Run](https://ahmet.im/blog/cloud-run-multi-region/)
 * 🛠️ [runsd](https://github.com/ahmetb/runsd) ⭐ 423 | 🐛 7 | 🌐 Go | 📅 2024-05-01: Service discovery (unofficial tool)
+* 📰 [Serving users from multiple regions with Cloud Run](https://ahmet.im/blog/cloud-run-multi-region/)
 * 📰 [Multi Region Load Balancing with GO and Google Cloud Run](https://medium.com/@bitniftee/multi-region-load-balancing-with-go-and-google-cloud-run-part-1-c2a2e39ce022)
 * gRPC
   * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
@@ -387,4 +387,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

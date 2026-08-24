@@ -480,7 +480,7 @@
                     "archived": false,
                     "id": 206279381,
                     "language": "Dart",
-                    "last_commit": "2026-08-22T22:52:58Z",
+                    "last_commit": "2026-08-24T13:54:29Z",
                     "owner": "dart-lang",
                     "repo": "samples",
                     "stars": 655
@@ -751,6 +751,43 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "📰+📦 Step by step of many Cloud Run concepts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215820113,
+            "language": "C#",
+            "last_commit": "2022-11-11T14:24:34Z",
+            "owner": "meteatamel",
+            "repo": "cloudrun-tutorial",
+            "stars": 89
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📰 Use Cloud Run to pre-process raw events from PubSub and publish them to new topic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190498093,
+                "language": "Go",
+                "last_commit": "2023-02-25T03:40:59Z",
+                "owner": "mchmarny",
+                "repo": "preprocessd",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Async and events"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -786,6 +823,28 @@
           "description": null,
           "node_type": "group",
           "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🛠️ runsd",
+              "description": "Service discovery (unofficial tool)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241954936,
+                "language": "Go",
+                "last_commit": "2024-05-01T18:16:07Z",
+                "owner": "ahmetb",
+                "repo": "runsd",
+                "stars": 423
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking and load balancing"
         }
       ],
       "title": "Tutorials"
@@ -1405,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:39:51.392Z",
+    "last_updated": "2026-08-24T14:17:51.820Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_id": 172414062,
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
