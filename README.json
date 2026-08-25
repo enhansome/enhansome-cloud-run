@@ -929,7 +929,7 @@
                 "last_commit": "2024-02-29T00:44:29Z",
                 "owner": "kelseyhightower",
                 "repo": "konfig",
-                "stars": 116
+                "stars": 117
               }
             }
           ]
@@ -1054,7 +1054,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11406
+            "stars": 11408
           }
         },
         {
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:40:43.572Z",
+    "last_updated": "2026-08-25T06:08:09.327Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_id": 172414062,
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",

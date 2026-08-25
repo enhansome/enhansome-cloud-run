@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 📅 2026-08-21 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -263,7 +263,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
-* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,440 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
+* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,441 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
 * [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub
 * [Ship your Go applications faster to Cloud Run with ko](https://cloud.google.com/blog/topics/developers-practitioners/ship-your-go-applications-faster-cloud-run-ko)
@@ -282,7 +282,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📙 [google\_cloud\_run\_service](https://www.terraform.io/docs/providers/google/r/cloud_run_service.html) to manage your Cloud Run services as Code.
 * Secrets:
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) ⭐ 1,303 | 🐛 2 | 🌐 Go | 📅 2026-08-17 unofficial tool to manage secrets on Google Cloud
-  * [konfig](https://github.com/kelseyhightower/konfig) ⭐ 116 | 🐛 2 | 🌐 Go | 📅 2024-02-29 to use Kubernetes configmaps and secrets with Cloud Run
+  * [konfig](https://github.com/kelseyhightower/konfig) ⭐ 117 | 🐛 2 | 🌐 Go | 📅 2024-02-29 to use Kubernetes configmaps and secrets with Cloud Run
   * 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secrets from Cloud Secret Manager ins Cloud Run services (see 📰 [Cloud Run and Clodu Secret manager tutorial](https://dev.to/googlecloud/serverless-mysteries-with-secret-manager-libraries-on-google-cloud-3a1p))
 * [Pulumi](https://www.pulumi.com/):
   * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,585 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-18: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
@@ -325,7 +325,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Integrations
 
-* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,406 | 🐛 709 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,408 | 🐛 709 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
 * [Flic buttons](https://github.com/mchmarny/buttons) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25: How to use Flic buttons with Cloud Run and Cloud PubSub
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * Twilio
@@ -387,4 +387,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
