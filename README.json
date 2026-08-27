@@ -1464,9 +1464,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:58.871Z",
-    "original_repository": "steren/awesome-cloud-run",
-    "original_repository_id": 172414062,
+    "last_updated": "2026-08-27T11:34:21.400Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 172414062,
+      "language": "Dockerfile",
+      "last_commit": "2025-04-14T20:13:30Z",
+      "owner": "steren",
+      "repo": "awesome-cloud-run",
+      "stars": 875
+    },
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
     "enhanced_repository": "enhansome/enhansome-cloud-run",
     "enhanced_repository_description": null,

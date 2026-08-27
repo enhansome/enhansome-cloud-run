@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,288 | 🐛 105 | 📅 2026-08-21 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -263,7 +263,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
-* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,440 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
+* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,441 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
 * [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub
 * [Ship your Go applications faster to Cloud Run with ko](https://cloud.google.com/blog/topics/developers-practitioners/ship-your-go-applications-faster-cloud-run-ko)
