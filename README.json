@@ -339,7 +339,7 @@
                     "archived": false,
                     "id": 170681535,
                     "language": "Java",
-                    "last_commit": "2026-08-25T16:38:37Z",
+                    "last_commit": "2026-08-26T10:15:26Z",
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57
@@ -354,7 +354,7 @@
                     "archived": false,
                     "id": 170681535,
                     "language": "Java",
-                    "last_commit": "2026-08-25T16:38:37Z",
+                    "last_commit": "2026-08-26T10:15:26Z",
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57
@@ -914,7 +914,7 @@
                 "last_commit": "2026-08-17T16:15:46Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "berglas",
-                "stars": 1303
+                "stars": 1302
               }
             },
             {
@@ -948,7 +948,7 @@
                 "archived": false,
                 "id": 108589232,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T08:50:19Z",
+                "last_commit": "2026-08-26T14:53:19Z",
                 "owner": "pulumi",
                 "repo": "examples",
                 "stars": 2585
@@ -1054,7 +1054,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11411
+            "stars": 11412
           }
         },
         {
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:43:02.249Z",
+    "last_updated": "2026-08-27T04:32:58.871Z",
     "original_repository": "steren/awesome-cloud-run",
     "original_repository_id": 172414062,
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
