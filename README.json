@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User documentation for Knative components.",
+                "homepage": "https://knative.dev/docs/",
                 "id": 138207223,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T21:46:10Z",
+                "open_issues": 42,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5082
+                "stars": 5082,
+                "topics": [
+                  "documentation",
+                  "faas",
+                  "hacktoberfest",
+                  "istio",
+                  "knative",
+                  "kubernetes",
+                  "paas",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -28,12 +42,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User documentation for Knative components.",
+                "homepage": "https://knative.dev/docs/",
                 "id": 138207223,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T21:46:10Z",
+                "open_issues": 42,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5082
+                "stars": 5082,
+                "topics": [
+                  "documentation",
+                  "faas",
+                  "hacktoberfest",
+                  "istio",
+                  "knative",
+                  "kubernetes",
+                  "paas",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -44,12 +72,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User documentation for Knative components.",
+                "homepage": "https://knative.dev/docs/",
                 "id": 138207223,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T21:46:10Z",
+                "open_issues": 42,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5082
+                "stars": 5082,
+                "topics": [
+                  "documentation",
+                  "faas",
+                  "hacktoberfest",
+                  "istio",
+                  "knative",
+                  "kubernetes",
+                  "paas",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -60,12 +102,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User documentation for Knative components.",
+                "homepage": "https://knative.dev/docs/",
                 "id": 138207223,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T21:46:10Z",
+                "open_issues": 42,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5082
+                "stars": 5082,
+                "topics": [
+                  "documentation",
+                  "faas",
+                  "hacktoberfest",
+                  "istio",
+                  "knative",
+                  "kubernetes",
+                  "paas",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -76,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example web service in Pascal, deployed via Google Cloud Run",
+                "homepage": null,
                 "id": 218625668,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-31T19:43:13Z",
+                "open_issues": 1,
                 "owner": "engelke",
                 "repo": "cloud-run-pascal",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -92,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 211390250,
                 "language": "Nim",
+                "license": null,
                 "last_commit": "2019-09-27T19:41:45Z",
+                "open_issues": 0,
                 "owner": "karur4n-sandbox",
                 "repo": "try-cloud-run-with-nim",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -113,12 +179,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -129,12 +209,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 210428280,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-02-03T05:00:27Z",
+                    "open_issues": 4,
                     "owner": "jamesward",
                     "repo": "nodebars",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -152,12 +237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stub application to create a new GCP Cloud Run service",
+                    "homepage": null,
                     "id": 961857608,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2025-04-08T14:15:31Z",
+                    "open_issues": 0,
                     "owner": "begoon",
                     "repo": "cloudrun-primer",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -175,12 +265,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -191,12 +295,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo contains the project files for the container workshop for Latency Conference 2020",
+                    "homepage": null,
                     "id": 307026713,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2022-02-25T02:35:07Z",
+                    "open_issues": 0,
                     "owner": "jgunnink",
                     "repo": "latency-container-workshop",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -214,12 +323,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -230,12 +353,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Laravel 6 on Google cloud run for a demo",
+                    "homepage": "https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/",
                     "id": 216446647,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2023-02-02T08:22:01Z",
+                    "open_issues": 2,
                     "owner": "geshan",
                     "repo": "laravel6-on-google-cloud-run",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "cloud-run",
+                      "cloud-run-button",
+                      "cloud-run-gke",
+                      "docker",
+                      "docker-compose",
+                      "google-cloud",
+                      "google-cloud-run",
+                      "laravel",
+                      "laravel6",
+                      "php"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -246,12 +385,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Symfony Demo app on Google Cloud Run",
+                    "homepage": "https://geshan.com.np/blog/2019/11/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-guide/",
                     "id": 217932292,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2023-01-24T00:43:52Z",
+                    "open_issues": 1,
                     "owner": "geshan",
                     "repo": "symfony-demo-google-cloud-run",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "cloud-run",
+                      "docker",
+                      "docker-compose",
+                      "google-cloud",
+                      "google-cloud-run",
+                      "symfony",
+                      "symfony-demo",
+                      "symfony4"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -262,12 +415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a kit to deploy and develop Laravel on Cloud run",
+                    "homepage": null,
                     "id": 210768613,
                     "language": "Dockerfile",
+                    "license": null,
                     "last_commit": "2019-09-25T06:41:39Z",
+                    "open_issues": 0,
                     "owner": "0xkohe",
                     "repo": "LaravelOnCloudRunDevKit",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -285,12 +443,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -301,12 +473,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 178293493,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2024-03-28T20:59:51Z",
+                    "open_issues": 0,
                     "owner": "jamesward",
                     "repo": "hello-kotlin-ktor",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -317,12 +494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 247803027,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-12-15T00:19:34Z",
+                    "open_issues": 0,
                     "owner": "jamesward",
                     "repo": "hello-kotlin-springboot",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -340,12 +522,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -356,12 +552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integration between Micronaut and Google Cloud Platform (GCP)",
+                    "homepage": null,
                     "id": 170681535,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:45:54Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:06:58Z",
+                    "open_issues": 50,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -372,12 +573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integration between Micronaut and Google Cloud Platform (GCP)",
+                    "homepage": null,
                     "id": 170681535,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:45:54Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:06:58Z",
+                    "open_issues": 50,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -388,12 +594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 179365277,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-01-25T20:21:03Z",
+                    "open_issues": 0,
                     "owner": "jamesward",
                     "repo": "hello-micronaut",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -404,12 +615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 179365277,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-01-25T20:21:03Z",
+                    "open_issues": 0,
                     "owner": "jamesward",
                     "repo": "hello-micronaut",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -425,12 +641,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Quarkus-based microservice to extract text from PDF files",
+                        "homepage": null,
                         "id": 181307105,
                         "language": "Java",
+                        "license": "Apache-2.0",
                         "last_commit": "2021-06-15T16:00:24Z",
+                        "open_issues": 4,
                         "owner": "gunnarmorling",
                         "repo": "quarkus-pdf-extract",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:57:32.450Z"
                     }
@@ -450,12 +671,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -466,12 +701,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal Shell Based HTTP Server",
+                    "homepage": null,
                     "id": 249678207,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2020-03-24T10:36:18Z",
+                    "open_issues": 0,
                     "owner": "wietsevenema",
                     "repo": "sh-server",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -489,12 +729,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -505,12 +759,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of Dart code samples by Dart DevRel",
+                    "homepage": null,
                     "id": 206279381,
                     "language": "Dart",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T13:54:29Z",
+                    "open_issues": 13,
                     "owner": "dart-lang",
                     "repo": "samples",
-                    "stars": 655
+                    "stars": 656,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -528,12 +787,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -551,12 +824,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -567,12 +854,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A sample Rust service to test out Google Cloud Run",
+                    "homepage": null,
                     "id": 251119478,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2020-09-12T21:48:44Z",
+                    "open_issues": 0,
                     "owner": "gsquire",
                     "repo": "rust_bin",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "containers",
+                      "google-cloud",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -590,12 +886,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -613,12 +923,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -629,12 +953,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example of Swift HTTP Serverless Docker deployment using Google Cloud Run",
+                    "homepage": null,
                     "id": 182952190,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2019-04-23T09:58:00Z",
+                    "open_issues": 0,
                     "owner": "alfianlosari",
                     "repo": "SwiftCloudRun",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "dockerfile",
+                      "http-server",
+                      "kubernetes",
+                      "server-side-swift",
+                      "serverless",
+                      "swift",
+                      "swift-package-manager"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -652,12 +989,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User documentation for Knative components.",
+                    "homepage": "https://knative.dev/docs/",
                     "id": 138207223,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T21:46:10Z",
+                    "open_issues": 42,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5082
+                    "stars": 5082,
+                    "topics": [
+                      "documentation",
+                      "faas",
+                      "hacktoberfest",
+                      "istio",
+                      "knative",
+                      "kubernetes",
+                      "paas",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -668,12 +1019,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Running R on Cloud Run",
+                    "homepage": null,
                     "id": 189261920,
                     "language": "R",
+                    "license": "MIT",
                     "last_commit": "2019-11-16T23:32:34Z",
+                    "open_issues": 0,
                     "owner": "MarkEdmondson1234",
                     "repo": "cloudRunR",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 },
@@ -684,12 +1040,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An example of creating serverless functions using R, plumber and Docker",
+                    "homepage": "https://cloudrun-hello-r-tjf3c3jq4q-an.a.run.app/__swagger__/",
                     "id": 200551338,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2021-05-21T00:57:33Z",
+                    "open_issues": 0,
                     "owner": "Jinksi",
                     "repo": "cloudrun-helloworld-r",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "cloud-run",
+                      "docker",
+                      "plumber",
+                      "r",
+                      "serverless"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -707,12 +1074,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ code samples for using Google Cloud Platform",
+                    "homepage": null,
                     "id": 72026876,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-20T02:31:35Z",
+                    "open_issues": 21,
                     "owner": "GoogleCloudPlatform",
                     "repo": "cpp-samples",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": [
+                      "samples"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -732,12 +1106,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI on Google Cloud Run",
+                "homepage": null,
                 "id": 238754329,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T23:42:50Z",
+                "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 284
+                "stars": 283,
+                "topics": [
+                  "alembic",
+                  "docker",
+                  "fastapi",
+                  "google-cloud",
+                  "google-cloud-run",
+                  "postgresql",
+                  "pytest",
+                  "python3",
+                  "sqlalchemy",
+                  "sqlmodel"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -748,12 +1138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup Example to Deploy Remix on CloudRun",
+                "homepage": null,
                 "id": 558921565,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-11-03T16:51:26Z",
+                "open_issues": 0,
                 "owner": "puches",
                 "repo": "remix-cloudrun",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -769,12 +1164,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Screenshot as a service: take screenshot of the given URL",
+                    "homepage": "https://screenshot.as-a-service.dev/",
                     "id": 158633966,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-10T16:35:02Z",
+                    "open_issues": 5,
                     "owner": "as-a-service",
                     "repo": "screenshot",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": [
+                      "cloud-run-button",
+                      "container",
+                      "docker",
+                      "headless-chrome",
+                      "microservice",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
                 }
@@ -798,12 +1205,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tutorial showing some of the features of Cloud Run",
+            "homepage": null,
             "id": 215820113,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-11T14:24:34Z",
+            "open_issues": 3,
             "owner": "meteatamel",
             "repo": "cloudrun-tutorial",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "cloud-run",
+              "google-cloud",
+              "google-cloud-run",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -816,12 +1233,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple example showing how to use Cloud Run to pre-process raw events from PubSub and publish them to new topic. ",
+                "homepage": null,
                 "id": 190498093,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-25T03:40:59Z",
+                "open_issues": 2,
                 "owner": "mchmarny",
                 "repo": "preprocessd",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cloudrun",
+                  "events",
+                  "gcp",
+                  "go",
+                  "processing",
+                  "pubsub"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -839,12 +1268,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide to running Vault on Cloud Run",
+                "homepage": null,
                 "id": 320981352,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-28T16:47:21Z",
+                "open_issues": 5,
                 "owner": "kelseyhightower",
                 "repo": "serverless-vault-with-cloud-run",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "cloudrun",
+                  "serverless",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -855,12 +1293,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform module to deploy Vault as a container on Google Cloud Run",
+                "homepage": null,
                 "id": 202469422,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-26T09:15:43Z",
+                "open_issues": 1,
                 "owner": "mbrancato",
                 "repo": "terraform-google-vault",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "google-cloud",
+                  "google-cloud-platform",
+                  "google-cloud-run",
+                  "hashicorp-vault",
+                  "terraform",
+                  "terraform-modules"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -878,12 +1328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drop-in Service Discovery capabilities for Google Cloud Run.",
+                "homepage": "https://ahmet.im/blog/cloud-run-service-discovery/",
                 "id": 241954936,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T18:16:07Z",
+                "open_issues": 7,
                 "owner": "ahmetb",
                 "repo": "runsd",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -905,12 +1360,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let anyone deploy your GitHub repos to Google Cloud Run with a single click",
+            "homepage": "https://cloud.run",
             "id": 186705695,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T17:45:38Z",
+            "open_issues": 55,
             "owner": "GoogleCloudPlatform",
             "repo": "cloud-run-button",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "google-cloud-run"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -921,12 +1383,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy R scripts on Google Cloud Platform via Cloud Run, Cloud Build and Cloud Scheduler",
+            "homepage": "https://code.markedmondson.me/googleCloudRunner/",
             "id": 219194808,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-19T15:50:06Z",
+            "open_issues": 48,
             "owner": "MarkEdmondson1234",
             "repo": "googleCloudRunner",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "cloudbuild",
+              "dockerfile",
+              "googleauthr",
+              "googlecomputeenginer"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -937,12 +1409,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Google Cloud Run terraform plan from a docker-compose file",
+            "homepage": null,
             "id": 236236788,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-02-07T18:35:14Z",
+            "open_issues": 1,
             "owner": "remorses",
             "repo": "cloud-run-compose",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cloud-run",
+              "containers",
+              "docker",
+              "docker-compose",
+              "google-cloud",
+              "microservice"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -958,12 +1442,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for managing secrets on Google Cloud",
+                "homepage": "https://cloud.google.com/secret-manager",
                 "id": 180709218,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T16:15:46Z",
+                "open_issues": 2,
                 "owner": "GoogleCloudPlatform",
                 "repo": "berglas",
-                "stars": 1302
+                "stars": 1302,
+                "topics": [
+                  "google-cloud",
+                  "google-cloud-kms",
+                  "google-cloud-storage",
+                  "gsecrets",
+                  "secret-management",
+                  "secrets-management"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -974,12 +1470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 175380819,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-29T00:44:29Z",
+                "open_issues": 2,
                 "owner": "kelseyhightower",
                 "repo": "konfig",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -997,12 +1498,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+                "homepage": "https://www.pulumi.com",
                 "id": 108589232,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:12:14Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:46:12Z",
+                "open_issues": 143,
                 "owner": "pulumi",
                 "repo": "examples",
-                "stars": 2585
+                "stars": 2586,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "gcp",
+                  "kubernetes",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1021,12 +1533,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example config for deploying from Travis CI to Google Cloud Run",
+            "homepage": "https://cloud.google.com/run",
             "id": 182618472,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-24T20:10:48Z",
+            "open_issues": 0,
             "owner": "ahmetb",
             "repo": "cloud-run-travisci",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "cloud-run",
+              "google-cloud-run",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -1037,12 +1558,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drone plugin to deploy Google Cloud Run containers. ",
+            "homepage": null,
             "id": 180677746,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-01-30T06:45:51Z",
+            "open_issues": 0,
             "owner": "oliver006",
             "repo": "drone-cloud-run",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cloud-run",
+              "drone",
+              "drone-ci",
+              "drone-plugin",
+              "gcp",
+              "gcp-cloud-run"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -1058,12 +1591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources about all things Google Cloud Build",
+                "homepage": null,
                 "id": 196775456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-06T20:30:43Z",
+                "open_issues": 0,
                 "owner": "Timtech4u",
                 "repo": "awesome-cloudbuild",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1081,12 +1619,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[EXPERIMENTAL] Automated canary rollout tool for Cloud Run services.",
+                "homepage": null,
                 "id": 276131727,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-11T14:01:18Z",
+                "open_issues": 11,
                 "owner": "GoogleCloudPlatform",
                 "repo": "cloud-run-release-manager",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1105,12 +1648,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source multi-tool for exploring and publishing data",
+            "homepage": "https://datasette.io",
             "id": 107914493,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:11:42Z",
+            "open_issues": 710,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11413
+            "stars": 11415,
+            "topics": [
+              "asgi",
+              "automatic-api",
+              "csv",
+              "datasets",
+              "datasette",
+              "datasette-io",
+              "docker",
+              "json",
+              "python",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -1121,12 +1681,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to use Flic buttons with Clud Run on GCP",
+            "homepage": null,
             "id": 189588282,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T02:28:41Z",
+            "open_issues": 1,
             "owner": "mchmarny",
             "repo": "buttons",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cloud",
+              "cloudrun",
+              "flic",
+              "iot",
+              "pubsub"
+            ]
           },
           "first_seen": "2026-08-28T06:57:32.450Z"
         },
@@ -1142,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small Google Cloud Platform examples and code snippets.",
+                "homepage": null,
                 "id": 101685392,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-27T13:45:01Z",
+                "open_issues": 6,
                 "owner": "amygdala",
                 "repo": "code-snippets",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1168,12 +1744,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple web service for storing text log files",
+                "homepage": null,
                 "id": 340768892,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-30T19:50:11Z",
+                "open_issues": 6,
                 "owner": "mtlynch",
                 "repo": "logpaste",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "docker",
+                  "golang",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1184,12 +1769,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.",
+                "homepage": null,
                 "id": 180426303,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-27T12:47:18Z",
+                "open_issues": 8,
                 "owner": "ahmetb",
                 "repo": "serverless-registry-proxy",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "artifact-registry",
+                  "cloud-run",
+                  "docker-hub",
+                  "gcr",
+                  "gcr-registry",
+                  "google-artifact-registry",
+                  "google-cloud-run"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1200,12 +1798,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple http microservice that converts Word documents to PDF",
+                "homepage": "https://pdf.as-a-service.dev/",
                 "id": 174756008,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-15T10:24:56Z",
+                "open_issues": 21,
                 "owner": "as-a-service",
                 "repo": "pdf",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "cloud-run-button",
+                  "container",
+                  "docker",
+                  "google-cloud-run",
+                  "libreoffice",
+                  "microservice",
+                  "pdf",
+                  "word"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1216,12 +1828,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Screenshot as a service: take screenshot of the given URL",
+                "homepage": "https://screenshot.as-a-service.dev/",
                 "id": 158633966,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-10T16:35:02Z",
+                "open_issues": 5,
                 "owner": "as-a-service",
                 "repo": "screenshot",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "cloud-run-button",
+                  "container",
+                  "docker",
+                  "headless-chrome",
+                  "microservice",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1232,12 +1856,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generate build status images for Google Cloud Build ",
+                "homepage": null,
                 "id": 270210320,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-03T21:50:25Z",
+                "open_issues": 2,
                 "owner": "kelseyhightower",
                 "repo": "badger",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1248,12 +1877,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 212110787,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-30T23:06:10Z",
+                "open_issues": 0,
                 "owner": "GoogleCloudPlatform",
                 "repo": "django-demo-app-unicodex",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "cloud-run-button",
+                  "cloud-sql-database",
+                  "google-cloud"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1264,12 +1902,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Run service for GitHub event Webhook to monitor repo or org activity in real-time in Stackdriver and analyze activity through ad-hoc SQL queries in BigQuery",
+                "homepage": null,
                 "id": 158034430,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-24T23:25:37Z",
+                "open_issues": 5,
                 "owner": "mchmarny",
                 "repo": "github-activity-counter",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "bigquery",
+                  "cloudrun",
+                  "dataflow",
+                  "github",
+                  "pubsub",
+                  "stackdriver",
+                  "webhook"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1280,12 +1931,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple http microservice that generates meme images from a base image and text",
+                "homepage": "https://meme.as-a-service.dev/",
                 "id": 173523739,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-31T08:39:53Z",
+                "open_issues": 3,
                 "owner": "as-a-service",
                 "repo": "meme",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "cloud-run-button",
+                  "container",
+                  "golang",
+                  "meme-generator",
+                  "microservice"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1296,12 +1958,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple web service that renders a Blender 3D scene with custom text.",
+                "homepage": "https://render.as-a-service.dev/",
                 "id": 149045340,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-09T07:01:49Z",
+                "open_issues": 1,
                 "owner": "as-a-service",
                 "repo": "blender",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "3d",
+                  "b3d",
+                  "blender",
+                  "cloud-run-button",
+                  "container",
+                  "docker",
+                  "microservice"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1312,12 +1987,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple click-to-deploy serverless URL redirect service",
+                "homepage": null,
                 "id": 267407138,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-27T19:22:30Z",
+                "open_issues": 0,
                 "owner": "ahmetb",
                 "repo": "serverless-url-redirect",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cloud-run",
+                  "cloud-run-button",
+                  "cloudrun",
+                  "google-cloud-run"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1328,12 +2013,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy Hasura on Cloud Run",
+                "homepage": null,
                 "id": 263241583,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-07-21T17:22:34Z",
+                "open_issues": 2,
                 "owner": "n3n",
                 "repo": "hasura-cloud-run",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "hasura"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1344,12 +2036,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple web service to transform SVG to PNG using Inkscape",
+                "homepage": "https://inkscape.as-a-service.dev/",
                 "id": 193289962,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-15T19:51:24Z",
+                "open_issues": 1,
                 "owner": "as-a-service",
                 "repo": "inkscape",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "cloud-run-button",
+                  "container",
+                  "docker",
+                  "inkscape",
+                  "microservice",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1360,12 +2064,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Build status notification in Slack using Cloud Run",
+                "homepage": null,
                 "id": 199080582,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:05:00Z",
+                "open_issues": 5,
                 "owner": "mchmarny",
                 "repo": "buildstatus",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cloudbuild",
+                  "cloudrun",
+                  "notification",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1376,12 +2090,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG tracing as a service: web service that traces images to SVG",
+                "homepage": "https://trace.as-a-service.dev",
                 "id": 158156729,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-13T20:33:39Z",
+                "open_issues": 1,
                 "owner": "as-a-service",
                 "repo": "trace",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "cloud-run-button",
+                  "docker",
+                  "potrace",
+                  "svg",
+                  "webservice"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1392,12 +2117,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless video downloader app (using youtube-dl)",
+                "homepage": null,
                 "id": 217598798,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-25T17:00:04Z",
+                "open_issues": 0,
                 "owner": "ahmetb",
                 "repo": "ytdl",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cloud-run",
+                  "cloud-run-button",
+                  "google-cloud-run"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1408,12 +2142,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "personal url shortener and code snippet sharing tool",
+                "homepage": "https://go.gassmann.dev",
                 "id": 203053287,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-27T04:58:28Z",
+                "open_issues": 5,
                 "owner": "thomasgassmann",
                 "repo": "microurl",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "angular",
+                  "aspnetcore",
+                  "cloud-run",
+                  "google-cloud",
+                  "url-shortener",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1424,12 +2170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically clean up old Cloud Datastore entities",
+                "homepage": null,
                 "id": 236357120,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-05T22:21:54Z",
+                "open_issues": 3,
                 "owner": "steren",
                 "repo": "datastore-cleaner",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cloud-datastore",
+                  "cloud-datastore-entities",
+                  "cloud-run",
+                  "cloud-scheduler",
+                  "google-cloud-run"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1440,12 +2197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 221492494,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-14T16:28:33Z",
+                "open_issues": 0,
                 "owner": "n3n",
                 "repo": "odoo-starter",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1456,12 +2218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First cloud run app",
+                "homepage": null,
                 "id": 180649461,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2019-04-12T04:28:06Z",
+                "open_issues": 0,
                 "owner": "rprakashg",
                 "repo": "plantuml-image-converter",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1479,12 +2246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 172263253,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-03-07T12:38:47Z",
+                "open_issues": 1,
                 "owner": "matti",
                 "repo": "http-doom",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1495,12 +2267,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ih, as a service.",
+                "homepage": "https://ih-aas.glasnt.com",
                 "id": 178129262,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-04T00:50:55Z",
+                "open_issues": 0,
                 "owner": "glasnt",
                 "repo": "ih-aas",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cloud-run-button"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1511,12 +2290,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Fortran 90 on Google Cloud Run!",
+                "homepage": null,
                 "id": 181252318,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2019-04-14T03:22:13Z",
+                "open_issues": 0,
                 "owner": "zachmccormick",
                 "repo": "fortran-cloudrun",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "docker",
+                  "fortran",
+                  "fortran90",
+                  "google-cloud-platform",
+                  "google-cloud-run"
+                ]
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             },
@@ -1527,12 +2317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I don't know Cobol, but why not make it work with Cloud Run?",
+                "homepage": null,
                 "id": 253654123,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2020-04-07T11:45:14Z",
+                "open_issues": 0,
                 "owner": "devries",
                 "repo": "cloud-run-cobol",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:32.450Z"
             }
@@ -1546,15 +2341,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:32.450Z",
+    "last_updated": "2026-08-29T04:16:43.711Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
+      "homepage": "https://cloud.run",
       "id": 172414062,
       "language": "Dockerfile",
+      "license": null,
       "last_commit": "2025-04-14T20:13:30Z",
+      "open_issues": 1,
       "owner": "steren",
       "repo": "awesome-cloud-run",
-      "stars": 875
+      "stars": 875,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-run",
+        "containers",
+        "gcp",
+        "google-cloud-run",
+        "resources"
+      ]
     },
     "original_repository_sha": "76c1463dcd986e07115813d2c1fd36f65ea36fad",
     "enhanced_repository": "enhansome/enhansome-cloud-run",
