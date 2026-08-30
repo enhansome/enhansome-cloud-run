@@ -768,7 +768,7 @@
                     "open_issues": 13,
                     "owner": "dart-lang",
                     "repo": "samples",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
@@ -1657,7 +1657,7 @@
             "open_issues": 710,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11415,
+            "stars": 11414,
             "topics": [
               "asgi",
               "automatic-api",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:56.933Z",
+    "last_updated": "2026-08-30T01:18:33.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
