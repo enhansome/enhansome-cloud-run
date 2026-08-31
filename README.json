@@ -1654,7 +1654,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:11:42Z",
-            "open_issues": 710,
+            "open_issues": 711,
             "owner": "simonw",
             "repo": "datasette",
             "stars": 11414,
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:18:33.812Z",
+    "last_updated": "2026-08-31T01:24:07.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",

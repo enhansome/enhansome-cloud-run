@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,168 | 🐛 105 | 📅 2026-08-21 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,476 | 🐛 105 | 📅 2026-08-21 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -325,7 +325,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Integrations
 
-* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,414 | 🐛 710 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,414 | 🐛 711 | 🌐 Python | 📅 2026-08-14 to Cloud Run.
 * [Flic buttons](https://github.com/mchmarny/buttons) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25: How to use Flic buttons with Cloud Run and Cloud PubSub
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * Twilio
@@ -387,4 +387,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
