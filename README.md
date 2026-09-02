@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,750 | 🐛 105 | 📅 2026-08-21 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,055 | 🐛 105 | 📅 2026-08-21 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -72,8 +72,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
   * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,083 | 🐛 42 | 🌐 HTML | 📅 2026-09-01
-  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 50 | 🌐 Java | 📅 2026-08-28
-  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 50 | 🌐 Java | 📅 2026-08-28
+  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 51 | 🌐 Java | 📅 2026-09-01
+  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 51 | 🌐 Java | 📅 2026-09-01
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Deploying a Java 14 based Micronaut application](http://glaforge.appspot.com/article/start-the-fun-with-java-14-and-micronaut-inside-serverless-containers-on-cloud-run)
@@ -87,7 +87,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [sh server](https://github.com/wietsevenema/sh-server/) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2020-03-24
 * Dart
   * 📦 [Dart](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-dart) ⭐ 5,083 | 🐛 42 | 🌐 HTML | 📅 2026-09-01
-  * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server) ⭐ 656 | 🐛 13 | 🌐 Dart | 📅 2026-08-24
+  * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server) ⭐ 656 | 🐛 13 | 🌐 Dart | 📅 2026-09-01
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Elixir:
@@ -263,7 +263,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
-* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,443 | 🐛 251 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
+* Java [Jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,444 | 🐛 252 | 🌐 Java | 📅 2026-07-15: Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
 * [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub
 * [Ship your Go applications faster to Cloud Run with ko](https://cloud.google.com/blog/topics/developers-practitioners/ship-your-go-applications-faster-cloud-run-ko)
@@ -274,7 +274,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Tools
 
-* [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) ⭐ 553 | 🐛 54 | 🌐 Go | 📅 2026-07-10: Add a deploy button to a README to enable two-click deployment of a repo
+* [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) ⭐ 553 | 🐛 55 | 🌐 Go | 📅 2026-07-10: Add a deploy button to a README to enable two-click deployment of a repo
 * [cloudRunner](https://github.com/MarkEdmondson1234/cloudRunner) ⭐ 88 | 🐛 48 | 🌐 R | 📅 2025-06-19: As easy as possible R scripts in the cloud, via Cloud Run, Cloud Build and Cloud Scheduler.
 * [cloud-run-compose](https://github.com/remorses/cloud-run-compose) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2020-02-07: Deploy docker-compose configurations to Cloud Run.
 * Terraform:
@@ -285,7 +285,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [konfig](https://github.com/kelseyhightower/konfig) ⭐ 117 | 🐛 2 | 🌐 Go | 📅 2024-02-29 to use Kubernetes configmaps and secrets with Cloud Run
   * 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secrets from Cloud Secret Manager ins Cloud Run services (see 📰 [Cloud Run and Clodu Secret manager tutorial](https://dev.to/googlecloud/serverless-mysteries-with-secret-manager-libraries-on-google-cloud-3a1p))
 * [Pulumi](https://www.pulumi.com/):
-  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,587 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-28: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
+  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,586 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-01: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
   * 📰 [Pulumi](https://www.pulumi.com/blog/google-cloud-run-serverless-containers/): intro to Build, deploy and manage Cloud Run services using your favorite language with Pulumi.
 
 ## CI/CD
@@ -325,7 +325,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Integrations
 
-* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,417 | 🐛 719 | 🌐 Python | 📅 2026-08-31 to Cloud Run.
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,417 | 🐛 717 | 🌐 Python | 📅 2026-09-02 to Cloud Run.
 * [Flic buttons](https://github.com/mchmarny/buttons) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25: How to use Flic buttons with Cloud Run and Cloud PubSub
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * Twilio
@@ -387,4 +387,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
