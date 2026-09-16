@@ -557,7 +557,7 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T20:32:11Z",
+                    "last_commit": "2026-09-15T09:03:44Z",
                     "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
@@ -578,7 +578,7 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T20:32:11Z",
+                    "last_commit": "2026-09-15T09:03:44Z",
                     "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
@@ -1653,11 +1653,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:18:31Z",
-            "open_issues": 720,
+            "last_commit": "2026-09-16T00:16:26Z",
+            "open_issues": 665,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11464,
+            "stars": 11467,
             "topics": [
               "asgi",
               "automatic-api",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:33:41.240Z",
+    "last_updated": "2026-09-16T01:28:39.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
