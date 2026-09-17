@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "documentation",
                   "faas",
@@ -51,7 +51,7 @@
                 "open_issues": 54,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "documentation",
                   "faas",
@@ -81,7 +81,7 @@
                 "open_issues": 54,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "documentation",
                   "faas",
@@ -111,7 +111,7 @@
                 "open_issues": 54,
                 "owner": "knative",
                 "repo": "docs",
-                "stars": 5089,
+                "stars": 5090,
                 "topics": [
                   "documentation",
                   "faas",
@@ -188,7 +188,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -274,7 +274,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -332,7 +332,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -452,7 +452,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -531,7 +531,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -557,8 +557,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T09:03:44Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-09-16T20:57:38Z",
+                    "open_issues": 48,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -578,8 +578,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T09:03:44Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-09-16T20:57:38Z",
+                    "open_issues": 48,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -680,7 +680,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -738,7 +738,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -768,7 +768,7 @@
                     "open_issues": 13,
                     "owner": "dart-lang",
                     "repo": "samples",
-                    "stars": 656,
+                    "stars": 657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:32.450Z"
@@ -796,7 +796,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -833,7 +833,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -895,7 +895,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -932,7 +932,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -998,7 +998,7 @@
                     "open_issues": 54,
                     "owner": "knative",
                     "repo": "docs",
-                    "stars": 5089,
+                    "stars": 5090,
                     "topics": [
                       "documentation",
                       "faas",
@@ -1653,11 +1653,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T00:16:26Z",
-            "open_issues": 665,
+            "last_commit": "2026-09-17T00:47:26Z",
+            "open_issues": 653,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11467,
+            "stars": 11470,
             "topics": [
               "asgi",
               "automatic-api",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:28:39.689Z",
+    "last_updated": "2026-09-17T01:30:43.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
