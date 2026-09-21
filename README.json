@@ -557,8 +557,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T07:48:44Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-09-20T11:06:56Z",
+                    "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -578,8 +578,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T07:48:44Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-09-20T11:06:56Z",
+                    "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -1115,7 +1115,7 @@
                 "open_issues": 0,
                 "owner": "anthonycorletti",
                 "repo": "cloudrun-fastapi",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "alembic",
                   "docker",
@@ -1657,7 +1657,7 @@
             "open_issues": 670,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11476,
+            "stars": 11478,
             "topics": [
               "asgi",
               "automatic-api",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:17:14.337Z",
+    "last_updated": "2026-09-21T01:12:40.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
