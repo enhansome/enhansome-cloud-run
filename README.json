@@ -557,7 +557,7 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T11:06:56Z",
+                    "last_commit": "2026-09-21T19:34:43Z",
                     "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
@@ -578,7 +578,7 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T11:06:56Z",
+                    "last_commit": "2026-09-21T19:34:43Z",
                     "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
@@ -1451,7 +1451,7 @@
                 "open_issues": 3,
                 "owner": "GoogleCloudPlatform",
                 "repo": "berglas",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "google-cloud",
                   "google-cloud-kms",
@@ -1503,11 +1503,11 @@
                 "id": 108589232,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:38:22Z",
+                "last_commit": "2026-09-22T01:17:01Z",
                 "open_issues": 144,
                 "owner": "pulumi",
                 "repo": "examples",
-                "stars": 2585,
+                "stars": 2586,
                 "topics": [
                   "aws",
                   "azure",
@@ -1653,7 +1653,7 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T23:12:29Z",
+            "last_commit": "2026-09-21T23:15:22Z",
             "open_issues": 670,
             "owner": "simonw",
             "repo": "datasette",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:12:40.658Z",
+    "last_updated": "2026-09-22T01:38:20.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
