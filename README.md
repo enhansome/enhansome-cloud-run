@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,758 | 🐛 106 | 📅 2026-09-02 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -72,8 +72,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
   * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
-  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-02
-  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-02
+  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 47 | 🌐 Java | 📅 2026-10-03
+  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 47 | 🌐 Java | 📅 2026-10-03
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Deploying a Java 14 based Micronaut application](http://glaforge.appspot.com/article/start-the-fun-with-java-14-and-micronaut-inside-serverless-containers-on-cloud-run)
@@ -382,7 +382,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Meetup material
 
-* Cloud Run [hexagon logo](https://github.com/steren/awesome-cloudrun/blob/master/google-cloud-run-hexagon.svg) ⭐ 875 | 🐛 1 | 🌐 Dockerfile | 📅 2025-04-14
+* Cloud Run [hexagon logo](https://github.com/steren/awesome-cloudrun/blob/master/google-cloud-run-hexagon.svg) ⭐ 876 | 🐛 1 | 🌐 Dockerfile | 📅 2025-04-14
 * 🖼️ Cloud Run Club [slide deck](https://docs.google.com/presentation/d/1TS0JTPNaqvyTMUjM7TAKaau0swyqpxonFmk1gww3sw0/edit?usp=sharing) (feel free to re-use it!)
 
 ***

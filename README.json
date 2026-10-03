@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "📦 Python",
-              "description": null,
+              "description": "knative/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "📦 Scala",
-              "description": null,
+              "description": "knative/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "📦 Clojure",
-              "description": null,
+              "description": "knative/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "📦 Haskell",
-              "description": null,
+              "description": "knative/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
             {
               "node_type": "item",
               "title": "📦 Pascal",
-              "description": null,
+              "description": "engelke/cloud-run-pascal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "📦 Nim",
-              "description": null,
+              "description": "karur4n-sandbox/try-cloud-run-with-nim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Hello World",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -205,7 +205,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Node.js and Cloud SQL",
-                  "description": null,
+                  "description": "jamesward/nodebars",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -233,7 +233,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Cloud Run Primer in Go",
-                  "description": null,
+                  "description": "begoon/cloudrun-primer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -261,7 +261,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Ruby sample",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -291,7 +291,7 @@
                 {
                   "node_type": "item",
                   "title": "✏️ Ruby on Rails Cloud Run workshop/tutorial with CI/CD",
-                  "description": null,
+                  "description": "jgunnink/latency-container-workshop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -319,7 +319,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Hello World",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -411,7 +411,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Laravel",
-                  "description": null,
+                  "description": "0xkohe/LaravelOnCloudRunDevKit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -439,7 +439,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Kotlin Knative sample",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -469,7 +469,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Kotlin with Ktor",
-                  "description": null,
+                  "description": "jamesward/hello-kotlin-ktor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -490,7 +490,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Kotlin Spring Boot",
-                  "description": null,
+                  "description": "jamesward/hello-kotlin-springboot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -518,7 +518,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Spring Boot",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -548,7 +548,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Micronaut sample",
-                  "description": null,
+                  "description": "micronaut-projects/micronaut-gcp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -557,8 +557,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T02:36:50Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-03T02:08:15Z",
+                    "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -569,7 +569,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Micronaut with GraalVM",
-                  "description": null,
+                  "description": "micronaut-projects/micronaut-gcp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -578,8 +578,8 @@
                     "id": 170681535,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T02:36:50Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-03T02:08:15Z",
+                    "open_issues": 47,
                     "owner": "micronaut-projects",
                     "repo": "micronaut-gcp",
                     "stars": 57,
@@ -590,7 +590,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Micronaut with GraalVM",
-                  "description": null,
+                  "description": "jamesward/hello-micronaut",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -611,7 +611,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Launching/installing a Micronaut app with Cloud Shell",
-                  "description": null,
+                  "description": "jamesward/hello-micronaut",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -667,7 +667,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Shell Knative sample",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -697,7 +697,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 sh server",
-                  "description": null,
+                  "description": "wietsevenema/sh-server",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -725,7 +725,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Dart",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -755,7 +755,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Samples",
-                  "description": null,
+                  "description": "dart-lang/samples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -783,7 +783,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Elixir",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -820,7 +820,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Rust Knative sample",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -850,7 +850,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Rust sample",
-                  "description": null,
+                  "description": "gsquire/rust_bin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -882,7 +882,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 C#",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -919,7 +919,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 helloworld-swift",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -949,7 +949,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 SwiftCloudRun",
-                  "description": null,
+                  "description": "alfianlosari/SwiftCloudRun",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -985,7 +985,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 R Knative Hello World",
-                  "description": null,
+                  "description": "knative/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1015,7 +1015,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 R Hello World with Plumber",
-                  "description": null,
+                  "description": "MarkEdmondson1234/cloudRunR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1036,7 +1036,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 R Hello World",
-                  "description": null,
+                  "description": "Jinksi/cloudrun-helloworld-r",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1070,7 +1070,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 C++ Hello World",
-                  "description": null,
+                  "description": "GoogleCloudPlatform/cpp-samples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1102,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "📦 FastAPI, PostgreSQL, Secrets Manager, and Cloud Build",
-              "description": null,
+              "description": "anthonycorletti/cloudrun-fastapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1134,7 +1134,7 @@
             {
               "node_type": "item",
               "title": "📦 Remix",
-              "description": null,
+              "description": "puches/remix-cloudrun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1160,7 +1160,7 @@
                 {
                   "node_type": "item",
                   "title": "📦 Node.js (with puppeteer)",
-                  "description": null,
+                  "description": "as-a-service/screenshot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1201,7 +1201,7 @@
         {
           "node_type": "item",
           "title": "📰+📦 Step by step of many Cloud Run concepts",
-          "description": null,
+          "description": "meteatamel/cloudrun-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1229,7 +1229,7 @@
             {
               "node_type": "item",
               "title": "📰 Use Cloud Run to pre-process raw events from PubSub and publish them to new topic",
-              "description": null,
+              "description": "mchmarny/preprocessd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1264,7 +1264,7 @@
             {
               "node_type": "item",
               "title": "📦 Vault on Cloud Run",
-              "description": null,
+              "description": "kelseyhightower/serverless-vault-with-cloud-run",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "📦 Vault on Cloud Run (using Terraform)",
-              "description": null,
+              "description": "mbrancato/terraform-google-vault",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1529,7 +1529,7 @@
         {
           "node_type": "item",
           "title": "Using Travis CI",
-          "description": null,
+          "description": "ahmetb/cloud-run-travisci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1554,7 +1554,7 @@
         {
           "node_type": "item",
           "title": "Using Drone",
-          "description": null,
+          "description": "oliver006/drone-cloud-run",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1587,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "Awesome Cloud Build",
-              "description": null,
+              "description": "Timtech4u/awesome-cloudbuild",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1898,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "📦 GitHub activity counter",
-              "description": null,
+              "description": "mchmarny/github-activity-counter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1983,7 +1983,7 @@
             {
               "node_type": "item",
               "title": "📦 Domain redirector",
-              "description": null,
+              "description": "ahmetb/serverless-url-redirect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2286,7 +2286,7 @@
             {
               "node_type": "item",
               "title": "📦 Fortran 90 on Cloud Run",
-              "description": null,
+              "description": "zachmccormick/fortran-cloudrun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2313,7 +2313,7 @@
             {
               "node_type": "item",
               "title": "📦 COBOL on Cloud Run",
-              "description": null,
+              "description": "devries/cloud-run-cobol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:05:16.431Z",
+    "last_updated": "2026-10-03T04:41:43.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
@@ -2353,7 +2353,7 @@
       "open_issues": 1,
       "owner": "steren",
       "repo": "awesome-cloud-run",
-      "stars": 875,
+      "stars": 876,
       "topics": [
         "awesome",
         "awesome-list",
