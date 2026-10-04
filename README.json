@@ -1504,7 +1504,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T08:01:58Z",
-                "open_issues": 146,
+                "open_issues": 145,
                 "owner": "pulumi",
                 "repo": "examples",
                 "stars": 2585,
@@ -1657,7 +1657,7 @@
             "open_issues": 683,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11499,
+            "stars": 11500,
             "topics": [
               "asgi",
               "automatic-api",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:43.640Z",
+    "last_updated": "2026-10-04T02:44:41.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
