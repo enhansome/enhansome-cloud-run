@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,215 | 🐛 107 | 📅 2026-09-02 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,370 | 🐛 106 | 📅 2026-09-02 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -72,8 +72,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
   * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
-  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-05
-  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-05
+  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-06
+  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-06
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
   * 📦 [Deploying a Java 14 based Micronaut application](http://glaforge.appspot.com/article/start-the-fun-with-java-14-and-micronaut-inside-serverless-containers-on-cloud-run)
@@ -285,7 +285,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [konfig](https://github.com/kelseyhightower/konfig) ⭐ 117 | 🐛 2 | 🌐 Go | 📅 2024-02-29 to use Kubernetes configmaps and secrets with Cloud Run
   * 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secrets from Cloud Secret Manager ins Cloud Run services (see 📰 [Cloud Run and Clodu Secret manager tutorial](https://dev.to/googlecloud/serverless-mysteries-with-secret-manager-libraries-on-google-cloud-3a1p))
 * [Pulumi](https://www.pulumi.com/):
-  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,584 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-05: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
+  * 📦 [Typescript sample](https://github.com/pulumi/examples/tree/master/gcp-ts-cloudrun) ⭐ 2,584 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-05: example of deploying a custom Docker image into Google Cloud Run service using TypeScripe.
   * 📰 [Pulumi](https://www.pulumi.com/blog/google-cloud-run-serverless-containers/): intro to Build, deploy and manage Cloud Run services using your favorite language with Pulumi.
 
 ## CI/CD
