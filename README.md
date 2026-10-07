@@ -2,7 +2,7 @@
 
 > A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,370 | 🐛 106 | 📅 2026-09-02 list project.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,657 | 🐛 106 | 📅 2026-09-02 list project.*
 
 <p align="center">
 <img src="google-cloud-run-logo.svg" width="256px">
@@ -41,37 +41,37 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Languages
 
-* 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
-* 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
-* 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
-* 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+* 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+* 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+* 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+* 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-10-31
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim) ⭐ 0 | 🐛 0 | 🌐 Nim | 📅 2019-09-27
 * Node.js
-  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Node.js and Cloud SQL](https://github.com/jamesward/nodebars) ⭐ 6 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-03
   * 📰 [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/)
 * Deno
   * 📰 [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
   * 📰 [Deploy a Dockerized Deno App to Google Cloud Run](https://scalablescripts.medium.com/how-to-deploy-a-dockerized-deno-app-to-google-cloud-run-96f233394a26)
 * Go
-  * 📦 [Cloud Run Primer in Go](https://github.com/begoon/cloudrun-primer) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-05
+  * 📦 [Cloud Run Primer in Go](https://github.com/begoon/cloudrun-primer) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-06
 * Ruby
-  * 📦 [Ruby sample](https://github.com/knative/docs/tree/main/code-samples/serving/hello-world/helloworld-ruby) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Ruby sample](https://github.com/knative/docs/tree/main/code-samples/serving/hello-world/helloworld-ruby) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * ✏️ [Ruby on Rails Cloud Run workshop/tutorial with CI/CD](https://github.com/jgunnink/latency-container-workshop) ⭐ 4 | 🐛 0 | 🌐 Ruby | 📅 2022-02-25
   * 📙 [Running Rails on the Cloud Run](https://cloud.google.com/ruby/rails/run)
 * 📦 PHP
-  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Laravel 6](https://github.com/geshan/laravel6-on-google-cloud-run) ⭐ 25 | 🐛 2 | 🌐 PHP | 📅 2023-02-02 - 📰 [Blog post](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/)
   * 📦 [Symfony](https://github.com/geshan/symfony-demo-google-cloud-run) ⭐ 19 | 🐛 1 | 🌐 PHP | 📅 2023-01-24 - 📰 [Blog post](https://geshan.com.np/blog/2019/11/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-guide/)
   * 📦 [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master) ⭐ 0 | 🐛 0 | 🌐 Dockerfile | 📅 2019-09-25
 * Kotlin:
-  * 📦 [Kotlin Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Kotlin Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Kotlin with Ktor](https://github.com/jamesward/hello-kotlin-ktor) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2024-03-28
   * 📦 [Kotlin Spring Boot](https://github.com/jamesward/hello-kotlin-springboot) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2020-12-15
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
-  * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-06
   * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal) ⭐ 57 | 🐛 48 | 🌐 Java | 📅 2026-10-06
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2022-01-25
@@ -83,30 +83,30 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
     * 📦 [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2021-06-15 (extracting text from PDF files)
     * 📰 [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
 * Shell
-  * 📦 [Shell Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Shell Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [sh server](https://github.com/wietsevenema/sh-server/) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2020-03-24
 * Dart
-  * 📦 [Dart](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-dart) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Dart](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-dart) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server) ⭐ 657 | 🐛 13 | 🌐 Dart | 📅 2026-09-01
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Elixir:
-  * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 🎬 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw)
 * Rust
-  * 📦 [Rust Knative sample](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [Rust Knative sample](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [Rust sample](https://github.com/gsquire/rust_bin) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2020-09-12
 * C# and .NET
-  * 📦 [C#](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-csharp) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [C#](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-csharp) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📰 [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
   * 📰 [Running with C# on GCP Cloud Run](https://medium.com/google-cloud/running-with-c-on-gcp-cloud-run-b83ca5d6fc53)
 * Swift
-  * 📦 [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2019-04-23
   * 📰 [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
   * 📰 [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
 * R
-  * 📦 [R Knative Hello World](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rserver) ⭐ 5,094 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
+  * 📦 [R Knative Hello World](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rserver) ⭐ 5,093 | 🐛 53 | 🌐 HTML | 📅 2026-10-01
   * 📦 [R Hello World with Plumber](https://github.com/MarkEdmondson1234/cloudRunR) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2019-11-16
   * 📦 [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r) ⭐ 12 | 🐛 0 | 🌐 R | 📅 2021-05-21
   * 📰 [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
@@ -325,7 +325,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Integrations
 
-* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,503 | 🐛 685 | 🌐 Python | 📅 2026-10-05 to Cloud Run.
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) ⭐ 11,503 | 🐛 687 | 🌐 Python | 📅 2026-10-06 to Cloud Run.
 * [Flic buttons](https://github.com/mchmarny/buttons) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25: How to use Flic buttons with Cloud Run and Cloud PubSub
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * Twilio
@@ -338,7 +338,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📦 [LogPaste](https://github.com/mtlynch/logpaste) ⭐ 341 | 🐛 6 | 🌐 Go | 📅 2026-03-30 A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md) ⭐ 341 | 🐛 6 | 🌐 Go | 📅 2026-03-30)
 * 📦 [serverless-registry-proxy](https://github.com/ahmetb/gcr-custom-domains) ⭐ 264 | 🐛 8 | 🌐 Go | 📅 2023-12-27: Generic serverless docker-registry v2 proxy (e.g. GCR.io on custom domains)
-* 📦 [pdf](https://github.com/as-a-service/pdf) ⭐ 171 | 🐛 21 | 🌐 Python | 📅 2021-07-15: Transform Word documents to PDF.
+* 📦 [pdf](https://github.com/as-a-service/pdf) ⭐ 170 | 🐛 21 | 🌐 Python | 📅 2021-07-15: Transform Word documents to PDF.
 * 📦 [screenshot](https://github.com/as-a-service/screenshot) ⭐ 106 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-10: Take screenshots of webpages using Chromium via puppeteer
 * 📦 [Badger](https://github.com/kelseyhightower/badger) ⚠️ Archived generates build status images based on Cloud Build status info.
 * 📦 [django-demo-app-unicodex](https://github.com/GoogleCloudPlatform/django-demo-app-unicodex) ⚠️ Archived: Django in Cloud Run with Cloud SQL and Cloud Storages.
@@ -387,4 +387,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
