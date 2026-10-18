@@ -1503,11 +1503,11 @@
                 "id": 108589232,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T16:26:05Z",
+                "last_commit": "2026-10-17T16:07:46Z",
                 "open_issues": 146,
                 "owner": "pulumi",
                 "repo": "examples",
-                "stars": 2584,
+                "stars": 2583,
                 "topics": [
                   "aws",
                   "azure",
@@ -2341,7 +2341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:21:26.870Z",
+    "last_updated": "2026-10-18T01:11:01.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 ⏩ A curated list of resources about all things Cloud Run",
